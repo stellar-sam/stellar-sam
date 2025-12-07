@@ -23,4 +23,4 @@ I have experience in game development, deep learning, and electronics.
 - Electronics (microcontrollers like ESP32, ESP8266, Arduino Uno)
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/sambhav-jain-cos/) or [GitHub](https://github.com/stellar-sam) or [Discord](username:legend_sam).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/sambhav-jain-cos/) or [GitHub](https://github.com/stellar-sam) or [Discord] - username:legend_sam.
