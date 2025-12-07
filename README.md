@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I have experience in game development, deep learning, and electronics.
 
 ## Skills
-- Game Development (Godot)
+- Game Development (Godot, 3D Modelling (Blender), Minecraft Modding (Java))
 - Deep Learning (fine-tuning and training CNN, GAN, NLP models)
 - Electronics (microcontrollers like ESP32, ESP8266, Arduino Uno)
 
