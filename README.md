@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **stellar-sam/stellar-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I have experience in game development, deep learning, and electronics.
+
+## Skills
+- Game Development (Godot)
+- Deep Learning (fine-tuning and training CNN, GAN, NLP models)
+- Electronics (microcontrollers like ESP32, ESP8266, Arduino Uno)
+
+## Contact
+You can reach me at [LinkedIn](https://www.linkedin.com/in/sambhav-jain-cos/) or [GitHub](https://github.com/stellar-sam) or [Discord](username:legend_sam).
