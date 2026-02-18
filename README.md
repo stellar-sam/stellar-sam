@@ -25,4 +25,4 @@ I have experience in game development, deep learning, and electronics.
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/sambhav-jain-cos/) or [GitHub](https://github.com/stellar-sam) or [Discord] - username:legend_sam.
 
-Portfolio: https://sambhavjainsj7.wixsite.com/portfolio
+Portfolio: https://stellar-sam.github.io/portfolio/
