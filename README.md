@@ -20,7 +20,7 @@ I have experience in game development, deep learning, and electronics.
 ## Skills
 - Game Development (Godot, 3D Modelling (Blender), Minecraft Modding (Java))
 - Deep Learning (fine-tuning and training CNN, GAN, NLP models)
-- Electronics (microcontrollers like ESP32, ESP8266, Arduino Uno)
+- Electronics (microcontrollers like STM32, ESP32, ESP8266 and Arduino Uno)
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/sambhav-jain-cos/) or [GitHub](https://github.com/stellar-sam) or [Discord] - username:legend_sam.
